@@ -21,23 +21,10 @@ Given rapid AI advancement and traditional career uncertainty, building diversif
 
 ## 🚀 Core Ventures
 
-### Venture 1: IACplz - Terraform Learning Platform
+**Priority Order**: Beyond ePaper → BlinkWithLulu → Research-Driven Family → IACplz
 
-**Concept**: Hands-on Terraform education platform targeting solo learners with instant feedback
-
-| Attribute | Details |
-|-----------|---------|
-| **Target Market** | Individuals learning infrastructure-as-code, $200-450/year education market |
-| **Monetization** | $7/month subscription model |
-| **Status** | Active development, technical validation in progress |
-| **Key Success Factors** | Avoiding real cloud infrastructure costs through validation architecture, state management as core learning path |
-| **Timeline** | MVP within 3-6 months |
-
-**Progress Tracking**: See [Issue #4](https://github.com/cloudplz/project-horizon/issues/4)
-
----
-
-### Venture 2: Beyond ePaper - E-Ink Device Reviews
+### Venture 1: Beyond ePaper - E-Ink Device Reviews
+**Priority**: 🔴 Critical (Highest)
 
 **Concept**: Comprehensive e-ink device reviews with affiliate monetization
 
@@ -53,7 +40,26 @@ Given rapid AI advancement and traditional career uncertainty, building diversif
 
 ---
 
+### Venture 2: BlinkWithLulu - Photography Website
+**Priority**: 🟠 High
+
+**Concept**: Migration of wife's photography website from Squarespace to custom Astro site
+
+| Attribute | Details |
+|-----------|---------|
+| **Current Platform** | Squarespace (subscription-based) |
+| **Target Platform** | Astro (static site generator) |
+| **Scope** | 1:1 port of existing Squarespace site |
+| **Goals** | Cost savings (eliminate Squarespace fees), better performance, full control |
+| **Status** | Planning stage |
+| **Timeline** | TBD |
+
+**Progress Tracking**: See [Issue #5](https://github.com/cloudplz/project-horizon/issues/5)
+
+---
+
 ### Venture 3: Research-Driven Family - Affiliate Blog
+**Priority**: 🟡 Medium
 
 **Concept**: Systematic family decision-making documentation with affiliate revenue
 
@@ -70,17 +76,36 @@ Given rapid AI advancement and traditional career uncertainty, building diversif
 
 ---
 
+### Venture 4: IACplz - Terraform Learning Platform
+**Priority**: 🟡 Medium
+
+**Concept**: Hands-on Terraform education platform targeting solo learners with instant feedback
+
+| Attribute | Details |
+|-----------|---------|
+| **Target Market** | Individuals learning infrastructure-as-code, $200-450/year education market |
+| **Monetization** | $7/month subscription model |
+| **Status** | Active development, technical validation in progress |
+| **Key Success Factors** | Avoiding real cloud infrastructure costs through validation architecture, state management as core learning path |
+| **Timeline** | MVP within 3-6 months |
+
+**Progress Tracking**: See [Issue #4](https://github.com/cloudplz/project-horizon/issues/4)
+
+---
+
 ## 📊 Success Metrics
 
 ### Short-term (3-6 months)
-- **IACplz**: MVP launched, initial user feedback collected
 - **Beyond ePaper**: 10+ comprehensive device reviews published
+- **BlinkWithLulu**: Site migrated to Astro, performance improvements validated
 - **Research-Driven Family**: Brand established, 5+ foundational posts published
+- **IACplz**: MVP launched, initial user feedback collected
 
 ### Medium-term (6-12 months)
-- **IACplz**: $200-500/month recurring revenue, initial user retention metrics
 - **Beyond ePaper**: $500-1,000/month affiliate revenue, organic traffic growth
+- **BlinkWithLulu**: Zero ongoing hosting costs, improved performance metrics
 - **Research-Driven Family**: $200-500/month affiliate revenue, audience foundation
+- **IACplz**: $200-500/month recurring revenue, initial user retention metrics
 
 ### Long-term (12+ months)
 - **Combined Revenue**: $1,000-5,000+/month passive income
@@ -109,21 +134,23 @@ project-horizon/
 
 ---
 
-## 💡 Why These Three Ventures
+## 💡 Why These Four Ventures
 
 **Complementary Skills**: All leverage systematic thinking, research capabilities, and ability to synthesize complex information
 
-**Audience Diversity**: Three distinct but overlapping audiences reduces single-point-of-failure risk
+**Audience Diversity**: Four distinct but overlapping audiences reduces single-point-of-failure risk
 
-**Scalability**: All can generate revenue with minimal ongoing time once established:
-- IACplz: Platform scales with course updates, not hours
+**Scalability & Cost Optimization**: Revenue generation and cost savings with minimal ongoing time:
 - Beyond ePaper: Evergreen content generates ongoing affiliate revenue
+- BlinkWithLulu: One-time migration saves $200-400/year in Squarespace fees
 - Research-Driven Family: Systematic frameworks + affiliate partnerships create compounding value
+- IACplz: Platform scales with course updates, not hours
 
-**Alignment with Interests**: Each venture connects to genuine domains:
-- Infrastructure and cloud (IACplz)
+**Alignment with Interests & Family Goals**: Each venture connects to genuine domains:
 - Technology and e-ink devices (Beyond ePaper)
+- Family creative projects and cost optimization (BlinkWithLulu)
 - Family optimization and decision-making (Research-Driven Family)
+- Infrastructure and cloud (IACplz)
 
 ---
 
@@ -171,9 +198,10 @@ project-horizon/
 ## 📞 Questions & Discussion
 
 For detailed discussions on specific ventures, see the associated GitHub Issues:
-- [Venture 1: IACplz](https://github.com/cloudplz/project-horizon/issues/4)
-- [Venture 2: Beyond ePaper](https://github.com/cloudplz/project-horizon/issues/2)
-- [Venture 3: Research-Driven Family](https://github.com/cloudplz/project-horizon/issues/3)
+- [Venture 1: Beyond ePaper](https://github.com/cloudplz/project-horizon/issues/2) - 🔴 Critical Priority
+- [Venture 2: BlinkWithLulu](https://github.com/cloudplz/project-horizon/issues/5) - 🟠 High Priority
+- [Venture 3: Research-Driven Family](https://github.com/cloudplz/project-horizon/issues/3) - 🟡 Medium Priority
+- [Venture 4: IACplz](https://github.com/cloudplz/project-horizon/issues/4) - 🟡 Medium Priority
 
 ---
 
